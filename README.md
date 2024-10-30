@@ -1,8 +1,16 @@
-### Olá, me chamo Eduardo Henryque [colocar emoji]
+### Hello, World! My name is Eduardo Henryque 🫡
+- As a programming enthusiast, I began this journey in 2023, through the Computer Science program at Universidade Potiguar, where I am currently enrolled. I am now in my fourth semester and am also pursuing a second degree in Internet Systems Technology at IFRN, where I am in the second semester.
 
-[Fazer um breve resumo sobre você. Onde estuda, seus projetos são mais voltados para o que, etc...]
+### My Objective 😎
 
-Contato
+- Currently, I am specializing in Python, with a focus on Data Analysis, which is my main priority. In addition, I am skilled in other languages geared towards Fullstack development, which makes me a programmer who works across all areas! (Except for the jokes).
+
+- In summary, thank you for reading this far. Feel free to visit my profile anytime and follow my projects. See you soon!
+
+
+
+
+### Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-henryque-303387320/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/eduardo-henryque-303387320/)
